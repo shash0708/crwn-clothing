@@ -1,0 +1,3 @@
+const FormInput =({label,})=>{
+    return
+}

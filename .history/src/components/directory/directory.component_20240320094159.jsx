@@ -1,0 +1,7 @@
+const Directory = ({categories}) =>{
+
+return (
+    <
+)
+
+}
