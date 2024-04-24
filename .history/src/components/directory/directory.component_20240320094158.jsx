@@ -1,7 +1,0 @@
-const Directory = ({categories}) =>{
-
-return (
-    
-)
-
-}
